@@ -13,7 +13,7 @@
         "google-translate-api-browser": "^3.0.1",
         "gpt3-tokenizer": "^1.1.5",
         "ip-matching": "^2.1.2",
-        "ipaddr.js": "^2.0.1",
+        "ipaddr.js": "^2.1.0",
         "jimp": "^0.22.7",
         "jquery": "^3.6.4",
         "json5": "^2.2.3",
